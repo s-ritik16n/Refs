@@ -17,7 +17,7 @@ A collection of WEB development articles and tutorials sorted by topics.
 
 [nodetuts](http://nodetuts.com/)
 
-[module.exports and exports-sitepoint](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+[module.exports & exports - sitepoint](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
 
 ###Angularjs:
 
