@@ -11,7 +11,6 @@ A collection of WEB development articles and tutorials sorted by topics.
 
 ###Databases:
 
-[types of databases](https://www.tutorialcup.com/dbms/relational-calculus.htm)
 
 ###Miscallaneous:
 
