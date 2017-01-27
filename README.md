@@ -13,7 +13,3 @@ A collection of WEB development articles and tutorials sorted by topics.
 
 
 ###Miscallaneous:
-
-[scotch.io](https://scotch.io/)
-
-[codeforgeek](https://codeforgeek.com/)
