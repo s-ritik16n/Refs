@@ -1,2 +1,2 @@
 # WEB-resources
-A collection of WEB development articles and tutorials sorted by topics.
+A collection of WEB related articles and tutorials sorted by topics.
