@@ -10,3 +10,5 @@
 [nodetuts](http://nodetuts.com/)
 
 [module.exports & exports - sitepoint](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+
+[nodejs parser - _nearley_](https://github.com/Hardmath123/nearley)
