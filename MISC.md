@@ -13,3 +13,5 @@
 [simpleprogrammer.com](https://simpleprogrammer.com/)
 
 [UI/UX - Medium](https://medium.com/hh-design/crash-course-ui-design-25d13ff60962#.d00zpjmtj)
+
+[coluorlovers.com](http://www.colourlovers.com/web/trends/websites)
