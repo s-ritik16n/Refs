@@ -8,4 +8,6 @@
 
 [Get DOM Content (message passing in js extension) - _SO_](http://stackoverflow.com/questions/19758028/chrome-extension-get-dom-content)
 
-[w3c-animations](https://w3c.github.io/web-animations/)
+[w3c-js animations](https://w3c.github.io/web-animations/)
+
+[js animations - _javascript.info_](http://javascript.info/tutorial/animation)
