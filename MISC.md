@@ -17,3 +17,5 @@
 [coluorlovers.com](http://www.colourlovers.com/web/trends/websites)
 
 [placing footer at the bottom](http://54.67.6.95/how-to-keep-footer-at-bottom-of-page-with-css/)
+
+[git - _atlassian_](https://www.atlassian.com/git/tutorials/setting-up-a-repository#git-init)
