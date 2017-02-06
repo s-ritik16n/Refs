@@ -7,3 +7,5 @@
 [Writing extensions in js - _code.tutsplus.com_](https://code.tutsplus.com/tutorials/developing-google-chrome-extensions--net-33076)
 
 [Get DOM Content (message passing in js extension) - _SO_](http://stackoverflow.com/questions/19758028/chrome-extension-get-dom-content)
+
+[w3c-animations](https://w3c.github.io/web-animations/)
