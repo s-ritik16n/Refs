@@ -3,3 +3,5 @@
 [pyusb](https://github.com/walac/pyusb)
 
 [libusb1](https://github.com/vpelletier/python-libusb1)
+
+[OOP in python](http://www.python-course.eu/object_oriented_programming.php)
