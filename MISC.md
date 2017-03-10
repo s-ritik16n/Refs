@@ -23,3 +23,5 @@
 [linuxnix](http://www.linuxnix.com/)
 
 [BIGDATA](https://courses.bigdatauniversity.com)
+
+[jQuery on method passing argument-SO](http://stackoverflow.com/questions/15904243/jquery-on-method-passing-argument-to-event-handler-function)
