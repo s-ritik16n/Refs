@@ -25,3 +25,5 @@
 [BIGDATA](https://courses.bigdatauniversity.com)
 
 [jQuery on method passing argument-SO](http://stackoverflow.com/questions/15904243/jquery-on-method-passing-argument-to-event-handler-function)
+
+[html5Mode](http://stackoverflow.com/questions/16677528/location-switching-between-html5-and-hashbang-mode-link-rewriting)
