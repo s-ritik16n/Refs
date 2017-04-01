@@ -29,3 +29,5 @@
 [html5Mode](http://stackoverflow.com/questions/16677528/location-switching-between-html5-and-hashbang-mode-link-rewriting)
 
 [Cameron Pittman-web courses](http://cameronwp.com/)
+
+[prpgrammersdiary - _deploy mean stack app on aws_](http://programmersdiary.com/node/deploy-mean-stack-app-on-amazon-ec2/)
