@@ -31,3 +31,5 @@
 [Cameron Pittman-web courses](http://cameronwp.com/)
 
 [prpgrammersdiary - _deploy mean stack app on aws_](http://programmersdiary.com/node/deploy-mean-stack-app-on-amazon-ec2/)
+
+[flexbox - _scotch_](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
