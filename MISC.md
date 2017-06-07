@@ -33,3 +33,5 @@
 [prpgrammersdiary - _deploy mean stack app on aws_](http://programmersdiary.com/node/deploy-mean-stack-app-on-amazon-ec2/)
 
 [flexbox - _scotch_](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+
+[installing elastic search on ubuntu](https://www.elastic.co/guide/en/elasticsearch/reference/current/zip-targz.html)
