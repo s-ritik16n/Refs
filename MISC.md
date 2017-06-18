@@ -35,3 +35,5 @@
 [flexbox - _scotch_](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
 [installing elastic search on ubuntu](https://www.elastic.co/guide/en/elasticsearch/reference/current/zip-targz.html)
+
+[list of ml and data mining libraries](https://github.com/josephmisiti/awesome-machine-learning)
