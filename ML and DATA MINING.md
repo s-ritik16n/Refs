@@ -6,3 +6,5 @@
 [javscript library for data mining tools](https://github.com/vega/datalib)
 
 [list of ml and data mining libraries for nodejs](https://github.com/josephmisiti/awesome-machine-learning#javascript-general-purpose)
+
+[recline.js - library for buildng data driven applications](http://okfnlabs.org/recline/)
