@@ -11,3 +11,5 @@
 [w3c-js animations](https://w3c.github.io/web-animations/)
 
 [js animations - _javascript.info_](http://javascript.info/tutorial/animation)
+
+[responsive raphael](https://jsfiddle.net/IPWright83/jpUv3/)
