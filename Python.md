@@ -9,3 +9,5 @@
 [daemon process in python -_web.archive.org_](http://web.archive.org/web/20131017130434/http://www.jejik.com/articles/2007/02/a_simple_unix_linux_daemon_in_python/)
 
 [socket programming - _ibm_](https://www.ibm.com/developerworks/linux/tutorials/l-pysocks/)
+
+[removing unicode prefix from dictionary data](https://stackoverflow.com/questions/26308148/remove-unicode-from-dictionary-data/31111679#31111679)
