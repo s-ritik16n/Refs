@@ -8,3 +8,9 @@
 [list of ml and data mining libraries for nodejs](https://github.com/josephmisiti/awesome-machine-learning#javascript-general-purpose)
 
 [recline.js - library for buildng data driven applications](http://okfnlabs.org/recline/)
+
+[stanford](http://cs.stanford.edu/)
+
+[class-central](https://www.class-central.com)
+
+[https://lagunita.stanford.edu/](https://lagunita.stanford.edu/)
