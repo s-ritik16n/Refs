@@ -14,3 +14,7 @@
 [class-central](https://www.class-central.com)
 
 [https://lagunita.stanford.edu/](https://lagunita.stanford.edu/)
+
+[probably the best article on how to learn data science- dataquest.io](https://www.dataquest.io/blog/learn-data-science/)
+
+[dataquest](https://www.dataquest.io/)
