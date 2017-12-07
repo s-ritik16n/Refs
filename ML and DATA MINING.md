@@ -18,3 +18,5 @@
 [probably the best article on how to learn data science- dataquest.io](https://www.dataquest.io/blog/learn-data-science/)
 
 [dataquest](https://www.dataquest.io/)
+
+[understanding neural networks from scratch in python - analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
