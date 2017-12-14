@@ -4,3 +4,5 @@
 [MEDIUM - how does the blockchain work?](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093)
 
 [bitcoin - original research paper](https://bitcoin.org/bitcoin.pdf)
+
+[ethereum - white paper](https://github.com/ethereum/wiki/wiki/White-Paper)
