@@ -15,3 +15,5 @@
 [responsive raphael](https://jsfiddle.net/IPWright83/jpUv3/)
 
 [difference between rest parameters and spread syntax](https://stackoverflow.com/questions/33898512/spread-operator-vs-rest-parameter-in-es2015-es6)
+
+[best practices for development(2k18) - nemethgergely](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
