@@ -13,3 +13,5 @@
 [js animations - _javascript.info_](http://javascript.info/tutorial/animation)
 
 [responsive raphael](https://jsfiddle.net/IPWright83/jpUv3/)
+
+[difference between rest parameters and spread syntax](https://stackoverflow.com/questions/33898512/spread-operator-vs-rest-parameter-in-es2015-es6)
