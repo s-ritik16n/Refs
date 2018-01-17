@@ -19,3 +19,5 @@
 [best practices for development(2k18) - nemethgergely](https://nemethgergely.com/nodejs-best-practices-how-to-become-a-better-developer-in-2018/)
 
 [es6 in depth - arrow functions](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
+
+[es6 in depth - modules](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
