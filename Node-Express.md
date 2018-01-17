@@ -14,3 +14,5 @@
 [nodejs parser - _nearley_](https://github.com/Hardmath123/nearley)
 
 [ES6 in nodejs](https://blog.andrewray.me/how-to-use-es6-in-nodejs/)
+
+[beginner's guide for webpack - medium](https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460)
