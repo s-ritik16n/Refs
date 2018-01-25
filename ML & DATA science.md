@@ -22,3 +22,5 @@
 [understanding neural networks from scratch in python - analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
 
 [word2vec implementation in tensorflow](https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac)
+
+[remove records from database based on a list - pandas](https://stackoverflow.com/questions/16704782/python-pandas-removing-rows-from-a-dataframe-based-on-a-previously-obtained-su)
