@@ -26,3 +26,5 @@
 [remove records from database based on a list - pandas](https://stackoverflow.com/questions/16704782/python-pandas-removing-rows-from-a-dataframe-based-on-a-previously-obtained-su)
 
 [using sqlachemy (for mysql support) in pandas](https://robertdavidwest.com/2014/10/12/python-pandas-%E2%86%92-mysql-using-sqlalchemy-a-k-a-sqlalchemy-for-pandas-users-who-dont-know-sql-the-brave-and-the-foolhardy/)
+
+[analyticsvidhya - complete data science tutorial using python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
