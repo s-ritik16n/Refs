@@ -28,3 +28,5 @@
 [using sqlachemy (for mysql support) in pandas](https://robertdavidwest.com/2014/10/12/python-pandas-%E2%86%92-mysql-using-sqlalchemy-a-k-a-sqlalchemy-for-pandas-users-who-dont-know-sql-the-brave-and-the-foolhardy/)
 
 [analyticsvidhya - complete data science tutorial using python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+
+[applymap, apply and map in pandas](https://chrisalbon.com/python/data_wrangling/pandas_apply_operations_to_dataframes/)
