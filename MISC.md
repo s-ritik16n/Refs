@@ -36,4 +36,6 @@
 
 [installing elastic search on ubuntu](https://www.elastic.co/guide/en/elasticsearch/reference/current/zip-targz.html)
 
+[about apache license](http://whatis.techtarget.com/definition/Apache-License)
+
 [list of ml and data mining libraries](https://github.com/josephmisiti/awesome-machine-learning)
