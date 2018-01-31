@@ -21,3 +21,9 @@
 [es6 in depth - arrow functions](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
 
 [es6 in depth - modules](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
+
+[jQuery on method passing argument-SO](http://stackoverflow.com/questions/15904243/jquery-on-method-passing-argument-to-event-handler-function)
+
+[writing parser in js - _medium_](https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.lrg3n6yx6)
+
+[peg.js - parser](https://pegjs.org/)
