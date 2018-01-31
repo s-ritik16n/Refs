@@ -30,3 +30,7 @@
 [analyticsvidhya - complete data science tutorial using python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 
 [applymap, apply and map in pandas](https://chrisalbon.com/python/data_wrangling/pandas_apply_operations_to_dataframes/)
+
+[BIGDATA](https://courses.bigdatauniversity.com)
+
+[list of ml and data mining libraries](https://github.com/josephmisiti/awesome-machine-learning)
