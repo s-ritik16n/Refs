@@ -6,10 +6,6 @@
 
 [techstrikers](http://www.techstrikers.com/)
 
-[writing parser in js - _medium_](https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.lrg3n6yx6)
-
-[peg.js - parser](https://pegjs.org/)
-
 [simpleprogrammer.com](https://simpleprogrammer.com/)
 
 [UI/UX - Medium](https://medium.com/hh-design/crash-course-ui-design-25d13ff60962#.d00zpjmtj)
@@ -22,10 +18,6 @@
 
 [linuxnix](http://www.linuxnix.com/)
 
-[BIGDATA](https://courses.bigdatauniversity.com)
-
-[jQuery on method passing argument-SO](http://stackoverflow.com/questions/15904243/jquery-on-method-passing-argument-to-event-handler-function)
-
 [html5Mode](http://stackoverflow.com/questions/16677528/location-switching-between-html5-and-hashbang-mode-link-rewriting)
 
 [Cameron Pittman-web courses](http://cameronwp.com/)
@@ -34,10 +26,6 @@
 
 [flexbox - _scotch_](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
-[installing elastic search on ubuntu](https://www.elastic.co/guide/en/elasticsearch/reference/current/zip-targz.html)
-
 [apache license](http://whatis.techtarget.com/definition/Apache-License)
-
-[list of ml and data mining libraries](https://github.com/josephmisiti/awesome-machine-learning)
 
 [GNU/GPL licecnse](https://opensource.org/licenses/GPL-3.0)
