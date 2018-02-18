@@ -36,3 +36,5 @@
 [list of ml and data mining libraries](https://github.com/josephmisiti/awesome-machine-learning)
 
 [using item() in pandas to get value](https://stackoverflow.com/questions/30787901/how-to-get-a-value-from-a-pandas-dataframe-and-not-the-index-and-object-type)
+
+[applying `apply` on complete dataframe - pandas](https://stackoverflow.com/questions/26658240/getting-the-index-of-a-row-in-a-pandas-apply-function)
