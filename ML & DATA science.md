@@ -34,3 +34,5 @@
 [BIGDATA](https://courses.bigdatauniversity.com)
 
 [list of ml and data mining libraries](https://github.com/josephmisiti/awesome-machine-learning)
+
+[using item() in pandas to get value](https://stackoverflow.com/questions/30787901/how-to-get-a-value-from-a-pandas-dataframe-and-not-the-index-and-object-type)
