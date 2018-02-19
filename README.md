@@ -50,3 +50,12 @@ A collection of articles and tuts curated by topics.
 [writing parser in js - _medium_](https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e#.lrg3n6yx6)
 
 [peg.js - parser](https://pegjs.org/)
+
+### Angular.js
+---
+
+## 1.x
+
+[using *scope* inside directive - _undefinednull.com_](https://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
+
+[angular form validation - _coursera_](https://www.coursera.org/learn/angular-js/supplement/xBqjB/exercise-instructions-angular-forms-and-form-validation)
