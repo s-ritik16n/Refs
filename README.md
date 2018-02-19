@@ -79,3 +79,7 @@ A collection of articles and tuts curated by topics.
 
 [beginner's guide for webpack - medium](https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460)
 
+### Django
+---
+
+[pymysql error debug- during installation](https://stackoverflow.com/questions/42357853/mysql-python-pip-install-error)
