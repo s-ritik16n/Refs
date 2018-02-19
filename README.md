@@ -3,12 +3,12 @@ A collection of articles and tuts curated by topics.
 
 ## Web Development
 
-* HTML-CSS
+* #### HTML-CSS
 
-* Javascript
+* #### Javascript
 
-* Angular.js
+* #### Angular.js
 
-* Node/Express
+* #### Node/Express
 
-* Django
+* #### Django
