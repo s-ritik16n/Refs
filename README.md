@@ -25,7 +25,7 @@ A collection of articles and tuts curated by topics.
 
 + [Jupyter](#jupyter)
 
-+ [pandas]()
++ [pandas](#pandas)
 
 + [libraries]()
 
@@ -134,3 +134,14 @@ A collection of articles and tuts curated by topics.
 ---
 
 [running conda environment in jupyter notebook](http://stuartmumford.uk/blog/jupyter-notebook-and-conda.html)
+
+### Pandas
+---
+
+[using sqlachemy (for mysql support) in pandas](https://robertdavidwest.com/2014/10/12/python-pandas-%E2%86%92-mysql-using-sqlalchemy-a-k-a-sqlalchemy-for-pandas-users-who-dont-know-sql-the-brave-and-the-foolhardy/)
+
+[applymap, apply and map in pandas](https://chrisalbon.com/python/data_wrangling/pandas_apply_operations_to_dataframes/)
+
+[using item() in pandas to get value](https://stackoverflow.com/questions/30787901/how-to-get-a-value-from-a-pandas-dataframe-and-not-the-index-and-object-type)
+
+[applying `apply` on complete dataframe - pandas](https://stackoverflow.com/questions/26658240/getting-the-index-of-a-row-in-a-pandas-apply-function)
