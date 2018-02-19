@@ -3,15 +3,15 @@ A collection of articles and tuts curated by topics.
 
 ## Web Development
 
-#### [HTML-CSS](#html-css-1)
++ #### [HTML-CSS](#html-css-1)
 
-#### [JS](#js)
++ #### [JS](#js)
 
-#### [Angular.js](#angularjs-1)
++ #### [Angular.js](#angularjs-1)
 
-#### [Node/Express](#nodeexpress-1)
++ #### [Node/Express](#nodeexpress-1)
 
-#### [Django](#django-1)
++ #### [Django](#django-1)
 
 ### HTML-CSS
 ---
