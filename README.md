@@ -5,7 +5,7 @@ A collection of articles and tuts curated by topics.
 
 #### [HTML-CSS](#html-css-1)
 
-#### [Javascript]()
+#### [JS](#js)
 
 #### [Angular.js]()
 
