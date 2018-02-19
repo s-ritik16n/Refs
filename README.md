@@ -31,6 +31,13 @@ A collection of articles and tuts curated by topics.
 
 + [articles](#articles)
 
+## Operating Systems
+
++ [Linux](#linux)
+
++ [Boot](#boot)
+
+***
 ### HTML-CSS
 ---
 [html5rocks.com](https://www.html5rocks.com/en/)
@@ -185,3 +192,23 @@ A collection of articles and tuts curated by topics.
 [analyticsvidhya - complete data science tutorial using python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 
 [BIGDATA](https://courses.bigdatauniversity.com)
+
+### Linux
+---
+
+[process ids in linux - _digital ocean_](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux)
+
+[udev - device management built-in module in linux - _www.kernel.org_](https://www.kernel.org/pub/linux/utils/kernel/hotplug/udev/udev.html)
+
+[installing elastic search on ubuntu](https://www.elastic.co/guide/en/elasticsearch/reference/current/zip-targz.html)
+
+[chmod command usage](https://help.ubuntu.com/community/FilePermissions#chmod_with_Numbers)
+
+[chmod command using flags(rwx)](https://www.computerhope.com/unix/uchmod.htm)
+
+[remvove highlighted colors from terminal](https://askubuntu.com/questions/881949/ugly-color-for-directories-in-gnome-terminal)
+
+### Boot
+---
+
+[grub persists after bootrec commands - fix using diskpart ](http://linuxbsdos.com/2015/09/05/how-to-delete-grub-files-from-a-boot-efi-partition-in-windows-10/)
