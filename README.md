@@ -23,7 +23,7 @@ A collection of articles and tuts curated by topics.
 
 ## Machine Leanrning & Data Science
 
-+ [Jupyter]()
++ [Jupyter](#jupyter)
 
 + [pandas]()
 
