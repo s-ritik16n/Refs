@@ -13,7 +13,7 @@ A collection of articles and tuts curated by topics.
 
 + #### [Django](#django-1)
 
-+ #### [Misc](misc-1)
++ #### [Misc](#misc-1)
 
 ## Databases
 
