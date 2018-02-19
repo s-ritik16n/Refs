@@ -13,6 +13,8 @@ A collection of articles and tuts curated by topics.
 
 + #### [Django](#django-1)
 
++ #### [Misc]()
+
 ## Databases
 
 + [NoSQL](#nosql)
@@ -89,6 +91,13 @@ A collection of articles and tuts curated by topics.
 ---
 
 [pymysql error debug- during installation](https://stackoverflow.com/questions/42357853/mysql-python-pip-install-error)
+
+### Misc
+---
+
+[SSO - SAML vs. OAuth](https://www.mutuallyhuman.com/blog/2013/05/09/choosing-an-sso-strategy-saml-vs-oauth2/)
+
+[SAML - Auth0](https://auth0.com/blog/how-saml-authentication-works/)
 
 
 ### NoSQL
