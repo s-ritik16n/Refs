@@ -21,6 +21,16 @@ A collection of articles and tuts curated by topics.
 
 + [SQL](#sql)
 
+## Machine Leanrning & Data Science
+
++ [Jupyter]()
+
++ [pandas]()
+
++ [libraries]()
+
++ [articles]()
+
 ### HTML-CSS
 ---
 [html5rocks.com](https://www.html5rocks.com/en/)
@@ -119,3 +129,8 @@ A collection of articles and tuts curated by topics.
 [export/import mysql databases](https://stackoverflow.com/questions/11407349/mysql-how-to-export-and-import-a-sql-file-from-command-line)
 
 [import sql file in mysql](https://dba.stackexchange.com/questions/24371/how-to-import-a-sql-file-in-mysql)
+
+### Jupyter
+---
+
+[running conda environment in jupyter notebook](http://stuartmumford.uk/blog/jupyter-notebook-and-conda.html)
