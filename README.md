@@ -59,3 +59,23 @@ A collection of articles and tuts curated by topics.
 [using *scope* inside directive - _undefinednull.com_](https://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
 
 [angular form validation - _coursera_](https://www.coursera.org/learn/angular-js/supplement/xBqjB/exercise-instructions-angular-forms-and-form-validation)
+
+### Node/Express
+---
+
+[Node School](https://nodeschool.io/)
+
+[Node University](https://node.university/courses)
+
+[Risingstack](https://blog.risingstack.com/)
+
+[nodetuts](http://nodetuts.com/)
+
+[module.exports & exports - sitepoint](https://www.sitepoint.com/understanding-module-exports-exports-node-js/)
+
+[nodejs parser - _nearley_](https://github.com/Hardmath123/nearley)
+
+[ES6 in nodejs](https://blog.andrewray.me/how-to-use-es6-in-nodejs/)
+
+[beginner's guide for webpack - medium](https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460)
+
