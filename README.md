@@ -208,6 +208,8 @@ A collection of articles and tuts curated by topics.
 
 [remvove highlighted colors from terminal](https://askubuntu.com/questions/881949/ugly-color-for-directories-in-gnome-terminal)
 
+[using date command - bash](https://linode.com/docs/tools-reference/tools/use-the-date-command-in-linux/)
+
 ### Boot
 ---
 
