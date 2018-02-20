@@ -40,7 +40,7 @@ A collection of articles and tuts curated by topics.
 ## Python
 + [articles](#python-articles)
 
-# Version Control
+## Version Control
 + [Git](#git)
 
 ***
