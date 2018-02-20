@@ -40,6 +40,9 @@ A collection of articles and tuts curated by topics.
 ## Python
 + [articles](#python-articles)
 
+# Version Control
++[Git](#git)
+
 ***
 ### HTML-CSS
 ---
@@ -237,3 +240,7 @@ A collection of articles and tuts curated by topics.
 
 installing mysqldb for python3 in virtual machine- `pip install mysqlclient` followed by `sudo apt-get install python-mysqldb`
 
+### Git
+---
+
+[difference between reset and revert](https://stackoverflow.com/questions/27032850/what-is-the-difference-between-git-reset-and-git-revert/27032988#27032988)
