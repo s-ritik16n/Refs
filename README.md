@@ -41,7 +41,7 @@ A collection of articles and tuts curated by topics.
 + [articles](#python-articles)
 
 # Version Control
-+[Git](#git)
++ [Git](#git)
 
 ***
 ### HTML-CSS
