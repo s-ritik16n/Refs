@@ -21,13 +21,13 @@ A collection of articles and tuts curated by topics.
 
 + [JS](#js)
 
-+ [Angular.js](#angularjs-1)
++ [Angular.js](#angularjs)
 
-+ [Node/Express](#nodeexpress-1)
++ [Node/Express](#nodeexpress)
 
-+ [Django](#django-1)
++ [Django](#django)
 
-+ [Misc](#misc-1)
++ [Misc](#misc)
 
 + [Web tools](#web-tools)
 
