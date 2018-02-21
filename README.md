@@ -60,6 +60,10 @@ A collection of articles and tuts curated by topics.
 
 + [articles](#python-articles)
 
+## Miscallaneous
+
++ [Link](#link)
+
 ***
 
 ### Crypto articles
@@ -291,3 +295,10 @@ A collection of articles and tuts curated by topics.
 [removing unicode prefix from dictionary data](https://stackoverflow.com/questions/26308148/remove-unicode-from-dictionary-data/31111679#31111679)
 
 installing mysqldb for python3 in virtual machine- `pip install mysqlclient` followed by `sudo apt-get install python-mysqldb`
+
+### Miscallaneous
+---
+
+[apache license](http://whatis.techtarget.com/definition/Apache-License)
+
+[GNU/GPL licecnse](https://opensource.org/licenses/GPL-3.0)
