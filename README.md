@@ -5,6 +5,16 @@ A collection of articles and tuts curated by topics.
 
 + [articles](#crypto-articles)
 
+## Machine Leanrning & Data Science
+
++ [Jupyter](#jupyter)
+
++ [pandas](#pandas)
+
++ [libraries](#libraries)
+
++ [articles](#articles)
+
 ## Web Development
 
 + [HTML-CSS](#html-css-1)
@@ -21,6 +31,10 @@ A collection of articles and tuts curated by topics.
 
 + [Web tools](#web-tools)
 
+## Version Control
+
++ [Git](#git)
+
 ### XML
 
 + [xml](#xml-1)
@@ -35,15 +49,6 @@ A collection of articles and tuts curated by topics.
 
 + [networks](#networks)
 
-## Machine Leanrning & Data Science
-
-+ [Jupyter](#jupyter)
-
-+ [pandas](#pandas)
-
-+ [libraries](#libraries)
-
-+ [articles](#articles)
 
 ## Operating Systems
 
@@ -52,12 +57,78 @@ A collection of articles and tuts curated by topics.
 + [Boot](#boot)
 
 ## Python
+
 + [articles](#python-articles)
 
-## Version Control
-+ [Git](#git)
-
 ***
+
+### Crypto articles
+---
+
+[quora- where does the money go?](https://www.quora.com/Where-does-the-money-go-when-you-pay-for-buying-a-Bitcoin-or-BITS)
+
+[MEDIUM - how does the blockchain work?](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093)
+
+[bitcoin - original research paper](https://bitcoin.org/bitcoin.pdf)
+
+[ethereum - white paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+### Jupyter
+---
+
+[running conda environment in jupyter notebook](http://stuartmumford.uk/blog/jupyter-notebook-and-conda.html)
+
+### Pandas
+---
+
+[using sqlachemy (for mysql support) in pandas](https://robertdavidwest.com/2014/10/12/python-pandas-%E2%86%92-mysql-using-sqlalchemy-a-k-a-sqlalchemy-for-pandas-users-who-dont-know-sql-the-brave-and-the-foolhardy/)
+
+[applymap, apply and map in pandas](https://chrisalbon.com/python/data_wrangling/pandas_apply_operations_to_dataframes/)
+
+[using item() in pandas to get value](https://stackoverflow.com/questions/30787901/how-to-get-a-value-from-a-pandas-dataframe-and-not-the-index-and-object-type)
+
+[applying `apply` on complete dataframe - pandas](https://stackoverflow.com/questions/26658240/getting-the-index-of-a-row-in-a-pandas-apply-function)
+
+### libraries
+---
+
+[nodejs - natural language library 'natural'](https://github.com/NaturalNode/natural)
+
+[javscript library for data mining tools](https://github.com/vega/datalib)
+
+[list of ml and data mining libraries for nodejs](https://github.com/josephmisiti/awesome-machine-learning#javascript-general-purpose)
+
+[recline.js - library for buildng data driven applications](http://okfnlabs.org/recline/)\
+
+[list of ml and data mining libraries](https://github.com/josephmisiti/awesome-machine-learning)
+
+### articles
+---
+
+[KDNUGGETS list of nodejs modules for data mining and ml](http://www.kdnuggets.com/2016/06/top-machine-learning-libraries-javascript.html)
+
+[stanford](http://cs.stanford.edu/)
+
+[class-central](https://www.class-central.com)
+
+[https://lagunita.stanford.edu/](https://lagunita.stanford.edu/)
+
+[probably the best article on how to learn data science- dataquest.io](https://www.dataquest.io/blog/learn-data-science/)
+
+[dataquest](https://www.dataquest.io/)
+
+[understanding neural networks from scratch in python - analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
+
+[word2vec implementation in tensorflow](https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac)
+
+[remove records from database based on a list - pandas](https://stackoverflow.com/questions/16704782/python-pandas-removing-rows-from-a-dataframe-based-on-a-previously-obtained-su)
+
+[using sqlachemy (for mysql support) in pandas](https://robertdavidwest.com/2014/10/12/python-pandas-%E2%86%92-mysql-using-sqlalchemy-a-k-a-sqlalchemy-for-pandas-users-who-dont-know-sql-the-brave-and-the-foolhardy/)
+
+[analyticsvidhya - complete data science tutorial using python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+
+[BIGDATA](https://courses.bigdatauniversity.com)
+
 ### HTML-CSS
 ---
 [html5rocks.com](https://www.html5rocks.com/en/)
@@ -141,6 +212,14 @@ A collection of articles and tuts curated by topics.
 
 [pspdfkit - browser pdf toolkit](https://github.com/pspdfkit/pspdfkit-server-example-nodejs)
 
+
+### XML
+---
+
+[officeopenxml](http://officeopenxml.com)
+
+[how elementtree respresents XML](http://infohost.nmt.edu/tcc/help/pubs/pylxml/web/etree-view.html)
+
 ### NoSQL
 ---
 
@@ -161,61 +240,12 @@ A collection of articles and tuts curated by topics.
 
 [import sql file in mysql](https://dba.stackexchange.com/questions/24371/how-to-import-a-sql-file-in-mysql)
 
-### Jupyter
+### Networks
 ---
 
-[running conda environment in jupyter notebook](http://stuartmumford.uk/blog/jupyter-notebook-and-conda.html)
+[SO_REUSEADDR & SO_REUSEPORT - _s.o._](http://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t)
 
-### Pandas
----
-
-[using sqlachemy (for mysql support) in pandas](https://robertdavidwest.com/2014/10/12/python-pandas-%E2%86%92-mysql-using-sqlalchemy-a-k-a-sqlalchemy-for-pandas-users-who-dont-know-sql-the-brave-and-the-foolhardy/)
-
-[applymap, apply and map in pandas](https://chrisalbon.com/python/data_wrangling/pandas_apply_operations_to_dataframes/)
-
-[using item() in pandas to get value](https://stackoverflow.com/questions/30787901/how-to-get-a-value-from-a-pandas-dataframe-and-not-the-index-and-object-type)
-
-[applying `apply` on complete dataframe - pandas](https://stackoverflow.com/questions/26658240/getting-the-index-of-a-row-in-a-pandas-apply-function)
-
-### libraries
----
-
-[nodejs - natural language library 'natural'](https://github.com/NaturalNode/natural)
-
-[javscript library for data mining tools](https://github.com/vega/datalib)
-
-[list of ml and data mining libraries for nodejs](https://github.com/josephmisiti/awesome-machine-learning#javascript-general-purpose)
-
-[recline.js - library for buildng data driven applications](http://okfnlabs.org/recline/)\
-
-[list of ml and data mining libraries](https://github.com/josephmisiti/awesome-machine-learning)
-
-### articles
----
-
-[KDNUGGETS list of nodejs modules for data mining and ml](http://www.kdnuggets.com/2016/06/top-machine-learning-libraries-javascript.html)
-
-[stanford](http://cs.stanford.edu/)
-
-[class-central](https://www.class-central.com)
-
-[https://lagunita.stanford.edu/](https://lagunita.stanford.edu/)
-
-[probably the best article on how to learn data science- dataquest.io](https://www.dataquest.io/blog/learn-data-science/)
-
-[dataquest](https://www.dataquest.io/)
-
-[understanding neural networks from scratch in python - analyticsvidhya](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
-
-[word2vec implementation in tensorflow](https://towardsdatascience.com/learn-word2vec-by-implementing-it-in-tensorflow-45641adaf2ac)
-
-[remove records from database based on a list - pandas](https://stackoverflow.com/questions/16704782/python-pandas-removing-rows-from-a-dataframe-based-on-a-previously-obtained-su)
-
-[using sqlachemy (for mysql support) in pandas](https://robertdavidwest.com/2014/10/12/python-pandas-%E2%86%92-mysql-using-sqlalchemy-a-k-a-sqlalchemy-for-pandas-users-who-dont-know-sql-the-brave-and-the-foolhardy/)
-
-[analyticsvidhya - complete data science tutorial using python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
-
-[BIGDATA](https://courses.bigdatauniversity.com)
+[network sniffer - python](http://www.binarytides.com/python-packet-sniffer-code-linux/)
 
 ### Linux
 ---
@@ -262,28 +292,3 @@ installing mysqldb for python3 in virtual machine- `pip install mysqlclient` fol
 ---
 
 [difference between reset and revert](https://stackoverflow.com/questions/27032850/what-is-the-difference-between-git-reset-and-git-revert/27032988#27032988)
-
-### Crypto articles
----
-
-[quora- where does the money go?](https://www.quora.com/Where-does-the-money-go-when-you-pay-for-buying-a-Bitcoin-or-BITS)
-
-[MEDIUM - how does the blockchain work?](https://medium.com/blockchain-review/how-does-the-blockchain-work-for-dummies-explained-simply-9f94d386e093)
-
-[bitcoin - original research paper](https://bitcoin.org/bitcoin.pdf)
-
-[ethereum - white paper](https://github.com/ethereum/wiki/wiki/White-Paper)
-
-### Networks
----
-
-[SO_REUSEADDR & SO_REUSEPORT - _s.o._](http://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t)
-
-[network sniffer - python](http://www.binarytides.com/python-packet-sniffer-code-linux/)
-
-### XML
----
-
-[officeopenxml](http://officeopenxml.com)
-
-[how elementtree respresents XML](http://infohost.nmt.edu/tcc/help/pubs/pylxml/web/etree-view.html)
