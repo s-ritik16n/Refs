@@ -19,6 +19,10 @@ A collection of articles and tuts curated by topics.
 
 + [Misc](#misc-1)
 
+### XML
+
++ [xml](#xml)
+
 ## Databases
 
 + [NoSQL](#nosql)
@@ -270,3 +274,10 @@ installing mysqldb for python3 in virtual machine- `pip install mysqlclient` fol
 [SO_REUSEADDR & SO_REUSEPORT - _s.o._](http://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t)
 
 [network sniffer - python](http://www.binarytides.com/python-packet-sniffer-code-linux/)
+
+### XML
+---
+
+[officeopenxml](http://officeopenxml.com)
+
+[how elementtree respresents XML](http://infohost.nmt.edu/tcc/help/pubs/pylxml/web/etree-view.html)
