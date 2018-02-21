@@ -19,7 +19,7 @@ A collection of articles and tuts curated by topics.
 
 + [Misc](#misc-1)
 
-+ [Web tools]()
++ [Web tools](#web-tools-1)
 
 ### XML
 
@@ -136,7 +136,7 @@ A collection of articles and tuts curated by topics.
 
 [SAML - Auth0](https://auth0.com/blog/how-saml-authentication-works/)
 
-### tools
+### Web tools
 ---
 
 [pspdfkit - browser pdf toolkit](https://github.com/pspdfkit/pspdfkit-server-example-nodejs)
