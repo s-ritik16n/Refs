@@ -25,6 +25,10 @@ A collection of articles and tuts curated by topics.
 
 + [SQL](#sql)
 
+## Networks
+
++ [networks](#netowrks)
+
 ## Machine Leanrning & Data Science
 
 + [Jupyter](#jupyter)
@@ -259,3 +263,10 @@ installing mysqldb for python3 in virtual machine- `pip install mysqlclient` fol
 [bitcoin - original research paper](https://bitcoin.org/bitcoin.pdf)
 
 [ethereum - white paper](https://github.com/ethereum/wiki/wiki/White-Paper)
+
+### Networks
+---
+
+[SO_REUSEADDR & SO_REUSEPORT - _s.o._](http://stackoverflow.com/questions/14388706/socket-options-so-reuseaddr-and-so-reuseport-how-do-they-differ-do-they-mean-t)
+
+[network sniffer - python](http://www.binarytides.com/python-packet-sniffer-code-linux/)
