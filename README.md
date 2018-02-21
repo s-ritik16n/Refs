@@ -27,7 +27,7 @@ A collection of articles and tuts curated by topics.
 
 ## Networks
 
-+ [networks](#netowrks)
++ [networks](#networks)
 
 ## Machine Leanrning & Data Science
 
