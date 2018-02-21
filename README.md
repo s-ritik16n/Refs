@@ -19,7 +19,7 @@ A collection of articles and tuts curated by topics.
 
 + [Misc](#misc-1)
 
-+ [Web tools](#web-tools-1)
++ [Web tools](#web-tools)
 
 ### XML
 
