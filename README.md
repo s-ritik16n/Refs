@@ -31,6 +31,8 @@ A collection of articles and tuts curated by topics.
 
 + [Web tools](#web-tools)
 
++ [UI/UX]()
+
 ## Version Control
 
 + [Git](#git)
@@ -139,6 +141,7 @@ A collection of articles and tuts curated by topics.
 
 [jenkov tuts - svg](http://tutorials.jenkov.com/svg/path-element.html)
 
+[html5Mode](http://stackoverflow.com/questions/16677528/location-switching-between-html5-and-hashbang-mode-link-rewriting)
 
 ### JS
 ---
@@ -207,6 +210,8 @@ A collection of articles and tuts curated by topics.
 ### Misc
 ---
 
+[Cameron Pittman-web courses](http://cameronwp.com/)
+
 [SSO - SAML vs. OAuth](https://www.mutuallyhuman.com/blog/2013/05/09/choosing-an-sso-strategy-saml-vs-oauth2/)
 
 [SAML - Auth0](https://auth0.com/blog/how-saml-authentication-works/)
@@ -216,8 +221,21 @@ A collection of articles and tuts curated by topics.
 
 [pspdfkit - browser pdf toolkit](https://github.com/pspdfkit/pspdfkit-server-example-nodejs)
 
+### UI/UX
+---
+
+[UI/UX - Medium](https://medium.com/hh-design/crash-course-ui-design-25d13ff60962#.d00zpjmtj)
+
+[coluorlovers.com](http://www.colourlovers.com/web/trends/websites)
+
+[placing footer at the bottom](http://54.67.6.95/how-to-keep-footer-at-bottom-of-page-with-css/)
+
+[flexbox - _scotch_](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+
 ### Git
 ---
+
+[git - _atlassian_](https://www.atlassian.com/git/tutorials/setting-up-a-repository#git-init)
 
 [difference between reset and revert](https://stackoverflow.com/questions/27032850/what-is-the-difference-between-git-reset-and-git-revert/27032988#27032988)
 
@@ -242,6 +260,8 @@ A collection of articles and tuts curated by topics.
 
 [types of databases](https://www.tutorialcup.com/dbms/relational-calculus.htm)
 
+[What is 3-tier architecture? - _tonymarston_](http://www.tonymarston.net/php-mysql/3-tier-architecture.html)
+
 [mysql - run .sql file in mysql command line](https://stackoverflow.com/questions/17666249/how-to-import-an-sql-file-using-the-command-line-in-mysql)
 
 [export/import mysql databases](https://stackoverflow.com/questions/11407349/mysql-how-to-export-and-import-a-sql-file-from-command-line)
@@ -257,6 +277,8 @@ A collection of articles and tuts curated by topics.
 
 ### Linux
 ---
+
+[linuxnix](http://www.linuxnix.com/)
 
 [process ids in linux - _digital ocean_](https://www.digitalocean.com/community/tutorials/how-to-use-ps-kill-and-nice-to-manage-processes-in-linux)
 
@@ -302,3 +324,11 @@ installing mysqldb for python3 in virtual machine- `pip install mysqlclient` fol
 [apache license](http://whatis.techtarget.com/definition/Apache-License)
 
 [GNU/GPL licecnse](https://opensource.org/licenses/GPL-3.0)
+
+[scotch.io](https://scotch.io/)
+
+[codeforgeek](https://codeforgeek.com/)
+
+[techstrikers](http://www.techstrikers.com/)
+
+[simpleprogrammer.com](https://simpleprogrammer.com/)
