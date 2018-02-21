@@ -64,7 +64,7 @@ A collection of articles and tuts curated by topics.
 
 ## Miscallaneous
 
-+ [Link](#link)
++ [Link](#miscallaneous-1)
 
 ***
 
