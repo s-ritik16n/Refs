@@ -87,6 +87,8 @@ A collection of articles and tuts curated by topics.
 
 [running conda environment in jupyter notebook](http://stuartmumford.uk/blog/jupyter-notebook-and-conda.html)
 
+[using jupyter in AWS](https://towardsdatascience.com/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5)
+
 ### Pandas
 ---
 
