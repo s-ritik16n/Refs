@@ -232,6 +232,8 @@ A collection of articles and tuts curated by topics.
 
 [flexbox - _scotch_](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
 
+[website for placeholder images](https://placeholder.com/)
+
 ### Git
 ---
 
