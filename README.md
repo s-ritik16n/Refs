@@ -236,6 +236,8 @@ A collection of articles and tuts curated by topics.
 
 [lorem piscum - placeholder images](https://picsum.photos/)
 
+[animated fonts - icons8](https://icons8.com/c/animated-icons)
+
 ### Git
 ---
 
