@@ -234,6 +234,8 @@ A collection of articles and tuts curated by topics.
 
 [website for placeholder images](https://placeholder.com/)
 
+[lorem piscum - placeholder images](https://picsum.photos/)
+
 ### Git
 ---
 
