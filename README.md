@@ -1,7 +1,7 @@
 # WEB-resources
 A collection of articles and tuts curated by topics.
 
-## Table of Contents
+## Table of Contents -
 
 
 ## Crypto
