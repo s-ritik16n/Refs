@@ -238,6 +238,7 @@ A collection of articles and tuts curated by topics.
 
 [animated fonts - icons8](https://icons8.com/c/animated-icons)
 
+[animated icons - rocketstock](https://www.rocketstock.com/free-after-effects-templates/technicons-free-animated-icons/)
 ### Git
 ---
 
