@@ -26,7 +26,7 @@ A collection of articles and tuts curated by topics.
 
 + [Angular.js](#angularjs)
 
-+ [Angular2](angular2)
++ [Angular2](#angular2)
 
 + [Node/Express](#nodeexpress)
 
