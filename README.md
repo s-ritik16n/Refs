@@ -26,6 +26,8 @@ A collection of articles and tuts curated by topics.
 
 + [Angular.js](#angularjs)
 
++ [Angular2](angular2)
+
 + [Node/Express](#nodeexpress)
 
 + [Django](#django)
@@ -181,6 +183,11 @@ A collection of articles and tuts curated by topics.
 
 ### Angular.js
 ---
+
+### Angular2
+---
+
+[using bootstrap in angular2](https://github.com/angular/angular-cli/wiki/stories-include-bootstrap)
 
 ## 1.x
 
