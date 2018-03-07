@@ -214,6 +214,8 @@ A collection of articles and tuts curated by topics.
 
 [beginner's guide for webpack - medium](https://medium.com/javascript-training/beginner-s-guide-to-webpack-b1f1a3638460)
 
+[jquery/ajax file upload - express](https://codeforgeek.com/2014/11/ajax-file-upload-node-js/)
+
 ### Django
 ---
 
