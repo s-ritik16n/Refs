@@ -38,6 +38,8 @@ A collection of articles and tuts curated by topics.
 
 + [UI/UX](#uiux)
 
++ [GraphQL](#graphql)
+
 ## Version Control
 
 + [Git](#git)
@@ -253,6 +255,12 @@ A collection of articles and tuts curated by topics.
 [animated fonts - icons8](https://icons8.com/c/animated-icons)
 
 [animated icons - rocketstock](https://www.rocketstock.com/free-after-effects-templates/technicons-free-animated-icons/)
+
+### Graphql
+---
+
+[scotch.io - graphql with express](https://scotch.io/@codediger/build-a-simple-graphql-api-server-with-express-and-nodejs)
+
 ### Git
 ---
 
