@@ -191,6 +191,8 @@ A collection of articles and tuts curated by topics.
 
 [using bootstrap in angular2](https://github.com/angular/angular-cli/wiki/stories-include-bootstrap)
 
+[introduction to observables in angular](https://developer.telerik.com/topics/web-development/introduction-observables-angular-developers/)
+
 ## 1.x
 
 [using *scope* inside directive - _undefinednull.com_](https://www.undefinednull.com/2014/02/11/mastering-the-scope-of-a-directive-in-angularjs/)
